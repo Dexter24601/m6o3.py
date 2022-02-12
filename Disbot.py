@@ -10,7 +10,7 @@ from discord.ext import commands
 import numpy as np
 
 
-Token = "OTIwMzQwMjAzMzA1MDU4MzI0.Ybi7mw.b21qNGyjUFuW7_RWuPfFXqCGPWM"
+Token = "" #put your discord bot token here.
 dayTime = 86400000
 client = discord.Client()
 
